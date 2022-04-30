@@ -1,0 +1,137 @@
+[
+  {
+    "question_id": 1,
+    "question": "Which of the following widgets used for repeating the content",
+    "time": 15,
+    "options": [
+      {
+        "option_id": 1,
+        "option": "Expanded",
+        "correct": false
+      },
+      {
+        "option_id": 2,
+        "option": "List View",
+        "correct": true
+      },
+      {
+        "option_id": 3,
+        "option": "Stack",
+        "correct": false
+      },
+      {
+        "option_id": 4,
+        "option": "Scaffold",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "Name the popular database package used in the Flutter?",
+    "time": 20,
+    "options": [
+      {
+        "option_id": 1,
+        "option": "sqflite database",
+        "correct": false
+      },
+      {
+        "option_id": 2,
+        "option": "firebase database",
+        "correct": false
+      },
+      {
+        "option_id": 3,
+        "option": "both a & b",
+        "correct": true
+      },
+      {
+        "option_id": 4,
+        "option": "none",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "Flutter apps are written in the __________ language and make use of many of the languages more advanced features.",
+    "time": 10,
+    "options": [
+      {
+        "option_id": 1,
+        "option": "C",
+        "correct": false
+      },
+      {
+        "option_id": 2,
+        "option": "Dart",
+        "correct": true
+      },
+      {
+        "option_id": 3,
+        "option": "C++",
+        "correct": false
+      },
+      {
+        "option_id": 4,
+        "option": "Swift",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "Which of the following widgets use for layout ?",
+    "time": 15,
+    "options": [
+      {
+        "option_id": 1,
+        "option": "Column",
+        "correct": true
+      },
+      {
+        "option_id": 2,
+        "option": "Text",
+        "correct": false
+      },
+      {
+        "option_id": 3,
+        "option": "Gesture Detector",
+        "correct": false
+      },
+      {
+        "option_id": 4,
+        "option": "InkWell",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "Flutter was initially released in which year?",
+    "time": 20,
+    "options": [
+      {
+        "option_id": 1,
+        "option": "2016",
+        "correct": false
+      },
+      {
+        "option_id": 2,
+        "option": "2018",
+        "correct": false
+      },
+      {
+        "option_id": 3,
+        "option": "2017",
+        "correct": true
+      },
+      {
+        "option_id": 4,
+        "option": "2019",
+        "correct": false
+      }
+    ]
+  }
+]
